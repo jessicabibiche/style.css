@@ -1,0 +1,24 @@
+li, strong, label,ul, span{ 
+    color: rgb(23, 249, 241);
+    font-family: "Pacifico", serif;
+        font-style: italic;
+        font-weight: bold, thin;}
+  input, option{color: rgb(202, 13, 249);}      
+#banniere {
+    width:92em; height: 15em;
+}
+    .grand-texte {
+        font-size: 2em;
+    }
+    body { background-color: rgba(171, 11, 245, 0.7);}
+    .civilite {
+        font-size: 30px;
+        background-color: rgb(24, 50, 251);
+        border-radius: 10px 90px 0px 90px; 
+        box-shadow: 6px 5px 4px rgba(246, 246, 8, 0.5);
+        text-shadow: 3px 3px 3px rgb(246, 8, 8);
+        padding: 10px;
+    }
+    .civilite {border: 5px rgb(13, 245, 249) double;
+    text-align: center;}
+    
